@@ -1,4 +1,10 @@
-# data_visualization
+# Data Visualization Portfolio 
+
+
+
+
+
+Knowledge hubs: 
 
 - https://vis4good.github.io/resources
 - https://pudding.cool/resources/
